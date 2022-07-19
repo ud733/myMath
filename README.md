@@ -1,1 +1,1 @@
-# myMath
+I coudn't publish the scoped(private ) package as it needs a paid account on npm.
